@@ -17,22 +17,22 @@ make instal
 
 Currenlty creates a ring with max size of 16 nodes (0-15) to illustrate that it works correctly. This can be seen by executing `example.php` resulting with the following:
  ```
- Creating node '0' (0 totall calls over Sword network)
-Creating node '1' (2 totall calls over Sword network)
-Creating node '2' (14 totall calls over Sword network)
-Creating node '3' (40 totall calls over Sword network)
-Creating node '4' (72 totall calls over Sword network)
-Creating node '5' (116 totall calls over Sword network)
-Creating node '6' (162 totall calls over Sword network)
-Creating node '7' (212 totall calls over Sword network)
-Creating node '8' (270 totall calls over Sword network)
-Creating node '9' (350 totall calls over Sword network)
-Creating node '10' (412 totall calls over Sword network)
-Creating node '11' (482 totall calls over Sword network)
-Creating node '12' (552 totall calls over Sword network)
-Creating node '13' (644 totall calls over Sword network)
-Creating node '14' (716 totall calls over Sword network)
-Creating node '15' (814 totall calls over Sword network)
+ Creating node '0' (0 total calls over Sword network)
+Creating node '1' (2 total calls over Sword network)
+Creating node '2' (14 total calls over Sword network)
+Creating node '3' (40 total calls over Sword network)
+Creating node '4' (72 total calls over Sword network)
+Creating node '5' (116 total calls over Sword network)
+Creating node '6' (162 total calls over Sword network)
+Creating node '7' (212 total calls over Sword network)
+Creating node '8' (270 total calls over Sword network)
+Creating node '9' (350 total calls over Sword network)
+Creating node '10' (412 total calls over Sword network)
+Creating node '11' (482 total calls over Sword network)
+Creating node '12' (552 total calls over Sword network)
+Creating node '13' (644 total calls over Sword network)
+Creating node '14' (716 total calls over Sword network)
+Creating node '15' (814 total calls over Sword network)
 
 =======================================================
 Node:	0
