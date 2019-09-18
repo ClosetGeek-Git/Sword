@@ -2,10 +2,10 @@
 Distributed P2P message routing and node discovery system using Chord protocol and Swoole coroutine library.
 
 A work in progress. I'm working on last two tasks
-1. Currently only works over hardcoded `127.0.0.1` address. refactoring to connect to any ip
-2. Need to replace system sockets with swoole coro socket.
+1. Currently only works over hardcoded `127.0.0.1` address. Refactoring to connect to any ip address.
+2. Need to replace system sockets with swoole coro sockets.
 
-Requires Swoole PHP extension installed from source
+Requires Swoole PHP extension installed from source.
 
 ```
 # to build
@@ -15,7 +15,7 @@ make
 make instal
 ```
 
-Currenlty creates a ring with max size of 16 nodes (0-15) to illustrate that it works correctly. This can be seen by executing `example.php` resulting with the following
+Currenlty creates a ring with max size of 16 nodes (0-15) to illustrate that it works correctly. This can be seen by executing `example.php` resulting with the following:
  ```
  Creating node '0' (0 totall calls over Sword network)
 Creating node '1' (2 totall calls over Sword network)
