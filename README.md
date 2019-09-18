@@ -15,7 +15,7 @@ make
 make instal
 ```
 
-Currenlty creates a ring with max size of 16 nodes (0-15) to illustrate that it works correctly. This can be seen by executing `example.php` resulting with the following:
+Only tested on Ubuntu  but should workbon any *nix like OS. Currenlty creates a ring with max size of 16 nodes (0-15) to illustrate that it works correctly. This can be seen by executing `example.php` resulting with the following:
  ```
  Creating node '0' (0 total calls over Sword network)
 Creating node '1' (2 total calls over Sword network)
